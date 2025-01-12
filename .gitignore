@@ -2,3 +2,11 @@
 .user.yml
 /logs
 logs
+.venv
+target
+/target
+profiles.yml
+user.yml
+dbt_packages
+.vscode
+/.vscode
