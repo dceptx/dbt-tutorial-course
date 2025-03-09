@@ -1,0 +1,13 @@
+lessons:
+  outputs:
+    dev:
+      dataset: the_look
+      job_execution_timeout_seconds: 300
+      job_retries: 1
+      location: US
+      method: oauth
+      priority: interactive
+      project: fast-art-447623-v7
+      threads: 60
+      type: bigquery
+  target: dev
